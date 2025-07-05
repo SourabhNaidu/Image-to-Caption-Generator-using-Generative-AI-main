@@ -20,7 +20,7 @@ This project demonstrates a simple pipeline to load, process, and analyze an ima
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/project_Image-to-Caption Generator using Generative AI.git
+git clone https://github.com/SourabhNaidu/project_Image-to-Caption Generator using Generative AI.git
 cd project_giving_names
 
 
