@@ -15,15 +15,6 @@ This project demonstrates a simple pipeline to load, process, and analyze an ima
 - (Optional) Transformers or other image models from Hugging Face
 - OS module for path handling
 
-## 🗂️ Project Structure
-project_Image-to-Caption Generator using Generative AI/
-│
-├── demo.py # Main Python script
-├── random1.jpg # Sample image (ensure this is present)
-└── README.md # Project documentation
-
-
-
 
 ## 🚀 Getting Started
 
